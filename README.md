@@ -4,5 +4,8 @@ Here is my approach to plain laravel, no scaffolds, no drama. Just plain old lar
 
 Feel free to pull and make changes. I'll add github workflows soon.
 
-Things To Do:
-[ ] Github Workflows
+## Things To Do:
+================================================================
+- [x] Updated to Laravel 9
+- [x] Added Github Workflows
+- [] Continue updating to next version
