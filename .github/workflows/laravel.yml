@@ -41,10 +41,10 @@ jobs:
       - name: Create Database
         run: touch database/database.sqlite
 
-      - name: Execute tests (Unit and Feature tests) via Pest
-        env:
-          DB_CONNECTION: sqlite
-          DB_DATABASE: database/database.sqlite
-        run: vendor/bin/pest
+      # - name: Execute tests (Unit and Feature tests) via Pest
+      #   env:
+      #     DB_CONNECTION: sqlite
+      #     DB_DATABASE: database/database.sqlite
+      #   run: vendor/bin/pest
       # - name: Deploy to forge
       #   run: curl ${{secrets.FORGE_DEPLOYMENT_WEBHOOK}}
