@@ -1,6 +1,6 @@
 <?php
 
-namespace Gurulabs\Exceptions;
+namespace Gurulabs\App\Exceptions;
 
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use Throwable;

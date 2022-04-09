@@ -1,6 +1,6 @@
 <?php
 
-namespace Gurulabs\Models;
+namespace Gurulabs\Domain\Users;
 
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;

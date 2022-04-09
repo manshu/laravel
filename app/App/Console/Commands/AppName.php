@@ -1,6 +1,6 @@
 <?php
 
-namespace Gurulabs\Console\Commands;
+namespace Gurulabs\App\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Composer;

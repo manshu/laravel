@@ -1,6 +1,6 @@
 <?php
 
-namespace Gurulabs\Providers;
+namespace Gurulabs\App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

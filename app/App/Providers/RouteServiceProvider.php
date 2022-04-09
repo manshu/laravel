@@ -1,6 +1,6 @@
 <?php
 
-namespace Gurulabs\Providers;
+namespace Gurulabs\App\Providers;
 
 use Illuminate\Cache\RateLimiting\Limit;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;

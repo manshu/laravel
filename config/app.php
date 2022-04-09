@@ -171,11 +171,11 @@ return [
         /*
          * Application Service Providers...
          */
-        Gurulabs\Providers\AppServiceProvider::class,
-        Gurulabs\Providers\AuthServiceProvider::class,
-        // Gurulabs\Providers\BroadcastServiceProvider::class,
-        Gurulabs\Providers\EventServiceProvider::class,
-        Gurulabs\Providers\RouteServiceProvider::class,
+        Gurulabs\App\Providers\AppServiceProvider::class,
+        Gurulabs\App\Providers\AuthServiceProvider::class,
+        // Gurulabs\App\Providers\BroadcastServiceProvider::class,
+        Gurulabs\App\Providers\EventServiceProvider::class,
+        Gurulabs\App\Providers\RouteServiceProvider::class,
 
     ],
 

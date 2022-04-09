@@ -33,12 +33,12 @@ $app->singleton(
 
 $app->singleton(
     Illuminate\Contracts\Console\Kernel::class,
-    Gurulabs\Console\Kernel::class
+    Gurulabs\App\Console\Kernel::class
 );
 
 $app->singleton(
     Illuminate\Contracts\Debug\ExceptionHandler::class,
-    Gurulabs\Exceptions\Handler::class
+    Gurulabs\App\Exceptions\Handler::class
 );
 
 /*
