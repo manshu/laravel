@@ -8,4 +8,4 @@ Feel free to pull and make changes. I'll add github workflows soon.
 ================================================================
 - [x] Updated to Laravel 9
 - [x] Added Github Workflows
-- [] Continue updating to next version
+- [x] Tested & Working with Laravel Sail
